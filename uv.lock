@@ -43,7 +43,7 @@ wheels = [
 ]
 
 [[package]]
-name = "ficcd-activity-3"
+name = "sample-sampling-tlc-p-value"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
