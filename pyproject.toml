@@ -1,7 +1,7 @@
 [project]
-name = "ficcd-activity-3"
+name = "sample-sampling-tlc-p-value"
 version = "0.1.0"
-description = "Atividade 3 de Fundamentos de Inteligência Computacional e Ciência de Dados (FICCD)"
+description = "Estudo sobre Sample Distribution, Sampling Distribution, Teorema do Limite Central e P-Value"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
