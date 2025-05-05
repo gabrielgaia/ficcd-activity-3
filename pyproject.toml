@@ -5,4 +5,5 @@ description = "Atividade 3 de Fundamentos de Inteligência Computacional e Ciên
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "pandas>=2.2.3",
 ]
