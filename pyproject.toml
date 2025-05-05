@@ -1,0 +1,8 @@
+[project]
+name = "ficcd-activity-3"
+version = "0.1.0"
+description = "Atividade 3 de Fundamentos de Inteligência Computacional e Ciência de Dados (FICCD)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+]
